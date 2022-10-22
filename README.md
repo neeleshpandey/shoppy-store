@@ -19,7 +19,7 @@
 
 
 A Single place E-commerce Store where you can list multiple products to be purchased by customers
-This Project is built using Medusa, Next.js and Typescript.
+This Project is built using Medusa, Next.js and Typescript. It includes products screen, cart, checkout and payment.
 
 
 
